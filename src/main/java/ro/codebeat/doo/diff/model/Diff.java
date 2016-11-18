@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package ro.codebeat.dodiff.model;
+package ro.codebeat.doo.diff.model;
 
 /**
  * @author Catalin Kormos
