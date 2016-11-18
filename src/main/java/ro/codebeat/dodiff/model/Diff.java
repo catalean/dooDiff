@@ -15,8 +15,6 @@
  */
 package ro.codebeat.dodiff.model;
 
-import java.util.Collection;
-
 /**
  * @author Catalin Kormos
  */
